@@ -39,6 +39,8 @@ We build a data model where dimensions and facts are separated, then they are li
 ## Report Creation [PowerBI Desktop]
 ![](./img/Pharmaceutical%20Sales%20Analysis.gif)
 
+## Report on novypro: [Click here](https://www.novypro.com/project/pharmaceutical-sales-analysis)
+
 ## Visualization Tools
 - Card
 - Multi-row card
