@@ -25,6 +25,8 @@
 ## Report Creation [PowerBI Desktop]
 ![](./img/COVID%202019%20Analysis%20(Top%2010%20Asian%20Countries).gif)
 
+## Report on Novypro: [Click here](https://www.novypro.com/project/covid-2019-analysis-top-10-asian-countries-project)
+
 ## Visualization Tools
 - image
 - Blank
