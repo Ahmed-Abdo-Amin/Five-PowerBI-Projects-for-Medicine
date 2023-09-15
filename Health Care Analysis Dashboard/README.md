@@ -17,6 +17,8 @@
 ## Report Creation [PowerBI Desktop]
 ![](./img/Health%20Care%20Analysis.gif)
 
+## Report on Novypro: [Click here](https://www.novypro.com/project/health-care-analysis-project)
+
 ## Visualization Tools
 - image
 - Text box
