@@ -17,6 +17,8 @@
 ## Report Creation [PowerBI Desktop]
 ![](./img/Medicare%20Inpatient%202017%20Analysis.gif)
 
+## Report on Novypro: [Click here](https://www.novypro.com/project/medicare-inpatient-2017-charges-project)
+
 ## Visualization Tools
 - image
 - Text box
