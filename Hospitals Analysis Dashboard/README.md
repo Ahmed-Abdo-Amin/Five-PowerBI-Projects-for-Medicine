@@ -25,6 +25,8 @@ A data model where dimensions and facts are separated is then linked together by
 ## Report Creation [PowerBI Desktop]
 ![](./img/Hospitals%20Analysis%20Dashboard.gif)
 
+## Report on novypro: [Click here](https://www.novypro.com/project/hospitals-analysis-project)
+
 ## Visualization Tools
 - Card
 - image
